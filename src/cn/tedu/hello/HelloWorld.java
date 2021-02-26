@@ -14,7 +14,23 @@ package cn.tedu.hello;
  * {类的主题内容} --用来放置类的主要内容
  */
 public class HelloWorld {
+    /**
+     * public static void main(String[] args){} --入口函数
+     * static --静态的,说明这个方法是静态的
+     * void --空/无,说明这个方法没有返回值
+     * main --方法的名字
+     * () --代表这是一个方法/函数
+     * String[] args --方法的函数
+     * {方法的主题内容}--- 花括号是方法的主题,其中就是我们写的
+     * @param args
+     */
     public static void main(String[] args) {
+        /**
+         * System --系统,要发出的系统指令
+         * out -- 向外输出
+         * println --打印后换行
+         * print --打印后不换行
+         */
         System.out.println("元宵节快乐!");
         System.out.println("HelloWorld!");
     }
