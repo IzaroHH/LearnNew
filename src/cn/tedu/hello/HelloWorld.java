@@ -33,5 +33,6 @@ public class HelloWorld {
          */
         System.out.println("元宵节快乐!");
         System.out.println("HelloWorld!");
+        System.out.println("-------------------");
     }
 }
